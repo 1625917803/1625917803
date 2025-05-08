@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1625917803
 - 👀 I’m interested in ...climbing and keep flowing
 - 🌱 I’m currently learning ...code new world🤓
-- 💞️ I’m looking to collaborate on ...have fun
+- 💞️ I’m looking to collaborate on ...strive to reach the boundary of creation
 - 📫 How to reach me ...dont reach me
 - 😄 Pronouns: ...they
 - ⚡ Fun fact: ...i realky dont understand programming
