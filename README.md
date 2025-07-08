@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...strive to reach the boundary of creation
 - 📫 How to reach me ...dont reach me
 - 😄 Pronouns: ...they
-- ⚡ Fun fact: ...i realky dont understand programming
+- ⚡ Fun fact: ...i really dont understand programming
 
 <!---
 1625917803/1625917803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
